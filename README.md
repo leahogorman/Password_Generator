@@ -25,3 +25,6 @@
     Also aid from my group.
     Victor Scherman, Shaun Samoridny, Jessica Zonta, and Anjali Pant
 # Links
+The Links to the GITHUB site and the Live site are
+https://github.com/leahogorman/Password_Generator
+https://leahogorman.github.io/Password_Generator/
